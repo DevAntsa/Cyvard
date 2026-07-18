@@ -118,9 +118,9 @@ export const content = {
     },
     threat: {
       eyebrow: 'Taitoraja romahti',
-      pre: 'Vanha lohtu, ',
-      quote: '"kukapa meitä pieniä kiinnostaisi"',
-      post: ', ei enää päde. Automaatio ei välitä koostasi.',
+      pre: 'Käsitys ',
+      quote: '"pienempi on turvassa"',
+      post: ' ei enää pidä paikkaansa. Automatisoidut hyökkäykset eivät valikoi kohteitaan koon mukaan.',
       stats: [
         ['5 v', 'osaamista, jota tämä hyökkäys ennen vaati'],
         ['1 ihminen', 'ja tekoäly riittää nykyään'],
